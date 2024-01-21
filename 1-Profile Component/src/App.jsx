@@ -52,19 +52,3 @@ function BottomBar({followers, likes, photos}) {
 }
 
 export default App
-
-
-// <div className='grid grid-cols-3 text-gray-700 border-t mt-5 font-semibold'>
-//     <div className='mt-1'>  
-//       <div className='flex justify-center'> {followers} </div> 
-//       <div className='flex justify-center text-gray-400 text-xs'> Followers </div>
-//     </div>
-//     <div className='mt-1'>
-//       <div className='flex justify-center'> {likes} </div>
-//       <div className='flex justify-center text-gray-400 text-xs'> Likes </div>
-//     </div>
-//     <div className='mt-1'>
-//       <div className='flex justify-center'> {photos} </div> 
-//       <div className='flex justify-center text-gray-400 text-xs'> Photos </div>
-//     </div>
-//   </div>
